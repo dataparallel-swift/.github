@@ -15,9 +15,10 @@ writing GPU kernels directly in the Swift programming language.
   * Visit ... to learn more about GPGPU programming in Swift
 
   * Check out key repositories like the [swift compiler](https://github.com/dataparallel-swift/swift) (fork), and our packages:
-    - [swift-multiarray](https://github.com/dataparallel-swift/swift-multiarray)
     - [swift-to-gpu](https://github.com/dataparallel-swift/swift-to-gpu)
+    - [swift-multiarray](https://github.com/dataparallel-swift/swift-multiarray)
     - [swift-cuda](https://github.com/dataparallel-swift/swift-cuda)
+    - [swift-cublas](https://github.com/dataparallel-swift/swift-cublas)
     - [swift-mimalloc](https://github.com/dataparallel-swift/swift-mimalloc)
     - [swift-tracy](https://github.com/dataparallel-swift/swift-tracy)
 
